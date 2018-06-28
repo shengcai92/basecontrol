@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     // "test": "echo \"Error: no test specified\" && exit 1"
-    "test":"vows --spec"
+    "test":"node ./testFile.js"
   },
   "author": "",
   "license": "ISC"
