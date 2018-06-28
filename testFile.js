@@ -1,1 +1,2 @@
-console.log("我是尝试测试没问题")
+const test = require("./test.js");
+console.log(test);
